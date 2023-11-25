@@ -188,24 +188,24 @@ function clickedCell(cell) {
     }
 
     msg = document.getElementById("message");
-    msg.innerHTML = "You lose!";
+    msg.innerHTML = "Bạn thua!";
   }
   if (emptyCells(board).length == 0 && !gameOverAll(board)) {
     var msg = document.getElementById("message");
-    msg.innerHTML = "Draw!";
+    msg.innerHTML = "Hoà!";
   }
   if (gameOverAll(board) == true || emptyCells(board).length == 0) {
-    button.value = "Restart";
+    button.value = "Làm lại";
     button.disabled = false;
   }
 }
 
 function restartBttn(button) {
-  if (button.value == "Make AI start") {
+  if (button.value == "Hyoowai") {
     aiTurn();
     button.disabled = true;
   }
-  else if (button.value == "Restart") {
+  else if (button.value == "Làm lại") {
     var htmlBoard;
     var msg;
 
@@ -217,7 +217,7 @@ function restartBttn(button) {
         htmlBoard.innerHTML = "";
       }
     }
-    button.value = "Make AI start";
+    button.value = "Hyoowai";
     msg = document.getElementById("message");
     msg.innerHTML = "";
   }
