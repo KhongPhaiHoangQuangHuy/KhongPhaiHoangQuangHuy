@@ -1,5 +1,5 @@
 <h1 align="center">Xin chào, tôi là Hoàng Quang Huy</h1>
-<h3 align="center">thích modify của người khác</h3>
+<h3 align="center">modify</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khongphaihoangquanghuy&label=Profile%20views&color=0e75b6&style=flat" alt="khongphaihoangquanghuy" /> </p>
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/zVf5huXgaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zVf5huXgaQ" height="30" width="40" /></a>
+<a href="https://discord.gg/EZFpcEdWVD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="zVf5huXgaQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
