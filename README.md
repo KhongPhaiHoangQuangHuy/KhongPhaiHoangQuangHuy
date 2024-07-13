@@ -22,3 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khongphaihoangquanghuy&show_icons=true&locale=en" alt="khongphaihoangquanghuy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khongphaihoangquanghuy&" alt="khongphaihoangquanghuy" /></p>
+
+
+![Animated footer gif](http://randojs.com/images/barsSmallTransparentBackground.gif)
