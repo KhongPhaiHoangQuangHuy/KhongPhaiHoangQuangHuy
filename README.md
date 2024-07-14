@@ -6,9 +6,7 @@
 
 - 🔭 I’m currently working on [Không Phải Hoàng Quang Huy](https://khongphaihoangquanghuy.online/)
 
-- 👨‍💻 All of my projects are available at [http://slainoid.great-site.net/](http://slainoid.great-site.net/)
-
-- ⚡ Fun fact **không có việc gì khó, chỉ cần ta không làm**
+- ⚡ Fun fact: **không có việc gì khó, chỉ cần ta không làm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,12 +21,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khongphaihoangquanghuy&show_icons=true&locale=en" alt="khongphaihoangquanghuy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khongphaihoangquanghuy&" alt="khongphaihoangquanghuy" /></p>
+<br>
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=khongphaihoangquanghuy"></div>
 
 
 ![Animated footer gif](http://randojs.com/images/barsSmallTransparentBackground.gif)
 
 <br>
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=khongphaihoangquanghuy"></div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=khongphaihoangquanghuy&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khongphaihoangquanghuy&theme=tokyonight&hide=batchfile">
-<br>
-
