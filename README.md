@@ -1,5 +1,6 @@
 <h1 align="center">Xin chào, tôi là Hoàng Quang Huy</h1>
 <div align = "center"> <img src = "https://discord.c99.nl/widget/theme-1/181064730075463680.png"> </div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/181064730075463680?theme=dark&bg=4633ff&animated=true&showDisplayName=true&hideDiscrim=true&borderRadius=30px&idleMessage=Đang%20không%20làm%20gì%20cả)](https://discord.com/users/181064730075463680)
 <h3 align="center">modify</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khongphaihoangquanghuy&label=Profile%20views&color=0e75b6&style=flat" alt="khongphaihoangquanghuy" /> </p>
