@@ -26,6 +26,3 @@
 
 
 ![Animated footer gif](http://randojs.com/images/barsSmallTransparentBackground.gif)
-
-<br>
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=khongphaihoangquanghuy"></div>
